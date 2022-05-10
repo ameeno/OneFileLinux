@@ -1,0 +1,7 @@
+alpine-minirootfs/lib/modules/*
+linux-firmware/
+OneFileLinux.efi
+FoxBuild/*
+!FoxBuild/zfiles/*
+!FoxBuild/README.md
+!FoxBuild/*.sh
